@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="me.tonny.cordova.plugins.multidex" version="0.1.0">
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="cordova-plugin-multidex" version="0.1.1">
   <name>Cordova Multi Dex</name>
-  <description>This do and only do add the Multidex inside the Android manifest</description>
+  <description>Adds the multidex flag to Android builds</description>
 
   <license>MIT</license>
 
