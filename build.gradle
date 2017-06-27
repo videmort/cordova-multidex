@@ -3,6 +3,9 @@ android {
         // Enabling multidex support.
         multiDexEnabled true
     }
+    dexOptions {
+        jumboMode true
+    }
 }
 
 dependencies {
