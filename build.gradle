@@ -6,7 +6,7 @@ android {
     dexOptions {
         jumboMode true
         incremental true 
-	javaMaxHeapSize “4g”
+	javaMaxHeapSize "4g"
     }
 }
 
